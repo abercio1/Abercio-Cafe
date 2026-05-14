@@ -28,7 +28,7 @@ const MENU_ITEMS = [
     description: 'Premium ceremonial-grade matcha whisked with oat milk foam and a hint of vanilla.',
     price: 58000,
     category: 'Non-Coffee',
-    image: 'https://images.unsplash.com/photo-1515823662972-da6a2e4d3168?w=600&q=80',
+    image: 'https://images.unsplash.com/photo-1717398804998-ad2d48822518?w=600&q=80',
   },
   {
     id: 4,
@@ -52,7 +52,7 @@ const MENU_ITEMS = [
     description: 'Steeped 18 hours in cold water. Smooth, rich, and perfectly balanced — no bitterness.',
     price: 60000,
     category: 'Coffee',
-    image: 'https://images.unsplash.com/photo-1461003532573-04e81ba2c2d9?w=600&q=80',
+    image: 'https://images.unsplash.com/photo-1549652127-2e5e59e86a7a?w=600&q=80',
   },
 ]
 
