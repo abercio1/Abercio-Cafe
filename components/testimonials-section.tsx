@@ -11,7 +11,8 @@ const REVIEWS = [
     id: 1,
     name: 'Siti Rahayu',
     role: 'Pelanggan Setia',
-    avatar: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&q=80',
+    // Indonesian woman, hijab, professional blazer, warm smile — unsplash/3h4WZ9TPuco
+    avatar: 'https://plus.unsplash.com/premium_photo-1664475546048-b1e3768d2b14?w=200&h=200&q=85&fit=crop&crop=faces',
     rating: 5,
     text: 'Cafe terbaik di Semarang! Kopinya luar biasa, suasananya sangat cozy dan elegan. Selalu jadi tempat favorit untuk bersantai maupun meeting. Pelayanannya ramah dan profesional.',
   },
@@ -19,7 +20,8 @@ const REVIEWS = [
     id: 2,
     name: 'Budi Santoso',
     role: 'Coffee Enthusiast',
-    avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&q=80',
+    // Indonesian man, business suit, professional portrait — unsplash/pzOUnvx9c1E
+    avatar: 'https://images.unsplash.com/photo-1543132220-3ec99c6094dc?w=200&h=200&q=85&fit=crop&crop=faces',
     rating: 5,
     text: 'Espresso Signature-nya benar-benar exceptional — crema yang sempurna dan aftertaste yang panjang. Sebagai pecinta kopi, ini adalah salah satu espresso terbaik yang pernah saya coba di Indonesia.',
   },
@@ -27,7 +29,8 @@ const REVIEWS = [
     id: 3,
     name: 'Dewi Kusuma',
     role: 'Food Blogger',
-    avatar: 'https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=100&q=80',
+    // Indonesian woman, hijab, minimalist white-wall portrait — unsplash/hH5VEFjcBJc
+    avatar: 'https://images.unsplash.com/photo-1634707532472-00e23a3a5f43?w=200&h=200&q=85&fit=crop&crop=faces',
     rating: 5,
     text: 'Tiramisu-nya juara! Lapisan mascarpone yang lembut, rasa espresso yang kaya, dan presentasinya yang cantik. Abercio benar-benar menjaga kualitas di setiap detail.',
   },
@@ -35,7 +38,8 @@ const REVIEWS = [
     id: 4,
     name: 'Raka Pratama',
     role: 'Entrepreneur',
-    avatar: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&q=80',
+    // Indonesian man, formal shirt and tie, professional — unsplash/WXoCpasOPuo
+    avatar: 'https://images.unsplash.com/photo-1740414289827-3332d41cb11a?w=200&h=200&q=85&fit=crop&crop=faces',
     rating: 5,
     text: 'Tempat yang sempurna untuk working remotely. Wi-Fi cepat, stop kontak tersedia, dan kopi yang terus menerus enak. Ambiance-nya mendukung fokus dan kreativitas.',
   },
@@ -43,7 +47,8 @@ const REVIEWS = [
     id: 5,
     name: 'Anisa Putri',
     role: 'Interior Designer',
-    avatar: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=100&q=80',
+    // Southeast Asian woman, smiling, professional portrait — unsplash/_o3DtvJEBYs
+    avatar: 'https://plus.unsplash.com/premium_photo-1661549438187-384f8be9c3bc?w=200&h=200&q=85&fit=crop&crop=faces',
     rating: 5,
     text: 'Sebagai seorang desainer, saya sangat menghargai keindahan estetika Abercio. Setiap sudut instagramable, pencahayaannya sempurna, dan keselarasan desainnya membuat betah berlama-lama.',
   },
@@ -51,7 +56,8 @@ const REVIEWS = [
     id: 6,
     name: 'Ahmad Fauzi',
     role: 'Regular Customer',
-    avatar: 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=100&q=80',
+    // Southeast Asian man, urban outdoor professional portrait — unsplash/cM3iD78xtg8
+    avatar: 'https://images.unsplash.com/photo-1763627556302-2b35f22c7a6c?w=200&h=200&q=85&fit=crop&crop=faces',
     rating: 5,
     text: 'Cold Brew Reserve-nya terbaik yang pernah saya coba! Smooth, bold, dan tanpa rasa pahit. Sekarang sudah jadi ritual pagi saya setiap hari Senin sebelum memulai minggu.',
   },
